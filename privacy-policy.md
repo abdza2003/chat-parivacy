@@ -37,4 +37,4 @@ we reserve the right to update or change my Privacy Policy at any time and you s
 
 ## Contact Information
 
-For any questions or concerns regarding the privacy policy, please send me an email to abdza1355@gmail.com
+For any questions or concerns regarding the privacy policy, please send me an email joyskuwait2003@gmail.com
