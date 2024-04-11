@@ -1,40 +1,44 @@
-# Privacy Policy
-
-we takes your privacy seriously. To better protect your privacy we provide this privacy policy notice explaining the way your personal information is collected and used.
-
-
-## Collection of Routine Information
-
-This app track basic information about their users. This information includes, but is not limited to, IP addresses, app details, timestamps and referring pages. None of this information can personally identify specific [["visitors" or "user"]] to this [["website" or "app"]]. The information is tracked for routine administration and maintenance purposes.
+## Privacy Policy
+This privacy policy applies to the JOYS app (hereby referred to as "Application") for mobile devices that was created by (hereby referred to as "Service Provider") as a Free service. This service is intended for use "AS IS".
 
 
-## Cookies
-
-Where necessary, this app uses cookies to store information about a visitor’s preferences and history in order to better serve the users and/or present the users with customized content.
-
-
-## Advertisement and Other Third Parties
-
-Advertising partners and other third parties may use cookies, scripts and/or web beacons to track user activities on this app in order to display advertisements and other useful information. Such tracking is done directly by the third parties through their own servers and is subject to their own privacy policies. This app has no access or control over these cookies, scripts and/or web beacons that may be used by third parties. 
+## What information does the Application obtain and how is it used?
+The Application does not obtain any information when you download and use it. Registration is not required to use the Application.
 
 
-## Links to Third Party Websites
+## Does the Application collect precise real time location information of the device?
+This Application does not collect precise information about the location of your mobile device.
 
-we have included links on this app for your use and reference. we are not responsible for the privacy policies on these websites. You should be aware that the privacy policies of these websites may differ from my own.
+
+## Do third parties see and/or have access to information obtained by the Application?
+Since the Application does not collect any information, no data is shared with third parties.
+
+
+## What are my opt-out rights?
+You can stop all collection of information by the Application easily by uninstalling it. You may use the standard uninstall processes as may be available as part of your mobile device or via the mobile application marketplace or network.
+
+
+## Children
+The Application is not used to knowingly solicit data from or market to children under the age of 13.
+
+
+The Service Provider does not knowingly collect personally identifiable information from children. The Service Provider encourages all children to never submit any personally identifiable information through the Application and/or Services. The Service Provider encourage parents and legal guardians to monitor their children's Internet usage and to help enforce this Policy by instructing their children never to provide personally identifiable information through the Application and/or Services without their permission. If you have reason to believe that a child has provided personally identifiable information to the Service Provider through the Application and/or Services, please contact the Service Provider (joyskuwait2003@gmail.com) so that they will be able to take the necessary actions. You must also be at least 16 years of age to consent to the processing of your personally identifiable information in your country (in some countries we may allow your parent or guardian to do so on your behalf).
 
 
 ## Security
-
-The security of your personal information is important to me, but remember that no method of transmission over the Internet, or method of electronic storage, is 100% secure. While we strive to use commercially acceptable means to protect your personal information, we cannot guarantee its absolute security.
-
-
-## Changes To This Privacy Policy
-
-This Privacy Policy is effective as of [[Date]] and will remain in effect except with respect to any changes in its provisions in the future, which will be in effect immediately after being posted on this page.
-
-we reserve the right to update or change my Privacy Policy at any time and you should check this Privacy Policy periodically. If we make any material changes to this Privacy Policy, we will notify you either through the email address you have provided me , or by placing a prominent notice on my app
+The Service Provider is concerned about safeguarding the confidentiality of your information. However, since the Application does not collect any information, there is no risk of your data being accessed by unauthorized individuals.
 
 
-## Contact Information
+## Changes
+This Privacy Policy may be updated from time to time for any reason. The Service Provider will notify you of any changes to their Privacy Policy by updating this page with the new Privacy Policy. You are advised to consult this Privacy Policy regularly for any changes, as continued use is deemed approval of all changes.
 
-For any questions or concerns regarding the privacy policy, please send me an email joyskuwait2003@gmail.com
+
+This privacy policy is effective as of 2026-01-11
+
+
+## Your Consent
+By using the Application, you are consenting to the processing of your information as set forth in this Privacy Policy now and as amended by the Service Provider.
+
+
+## Contact Us
+If you have any questions regarding privacy while using the Application, or have questions about the practices, please contact the Service Provider via email at joyskuwait2003@gmail.com.
